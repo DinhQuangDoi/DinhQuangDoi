@@ -31,7 +31,7 @@
 <table width="100%" max-width="600" cellpadding="12" cellspacing="0" style="margin: 16px auto;">
 <tr>
 <td align="center" style="color: #5c6370; font-family: 'Consolas', monospace; font-size: 12px;">
-<span style="color: #98c379;">●</span> DinhQuangDoi <span style="color: #3e4451;">│</span> Made with <span style="color: #e06c75;">♥</span> in Vietnam
+<span style="color: #98c379;">●</span> DinhQuangDoi <span style="color: #3e4451;">│</span> in with <span style="color: #e06c75;">-</span> Vietnam
 </td>
 </tr>
 </table>
