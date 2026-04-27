@@ -1,20 +1,39 @@
-<table width="400" cellpadding="12" cellspacing="0" style="border: 1px solid #303630; border-radius: 6px; background: #1a1a1a; font-family: monospace; color: #a0a0a0; margin: 8px auto;">
+<div align="center">
+
+<!-- Header Section -->
+<table width="100%" max-width="600" cellpadding="16" cellspacing="0" style="border: 1px solid #303630; border-radius: 8px; background: #0d0d0d; font-family: 'Consolas', 'Monaco', monospace; color: #e0e0e0; margin: 8px auto;">
 <tr>
-<td style="border-bottom: 1px solid #303630;">
-<div style="color: #7cb77c;">● Hi, I'm Đinh Quang Đới</div>
-<div style="color: #6a6a6a; margin-top: 4px;">A person who loves tinkering</div>
+<td style="border-bottom: 1px solid #303630; padding-bottom: 16px;">
+<span style="color: #98c379;">❯</span> <span style="color: #61afef; font-size: 18px;">Hi, I'm Đinh Quang Đới</span>
+<div style="color: #5c6370; margin-top: 8px;">A person who loves tinkering</div>
 </td>
 </tr>
 <tr>
-<td style="border-bottom: 1px solid #303630;">
-<div style="color: #7cb77c;">● Interests</div>
-<div style="color: #6a6a6a; margin-top: 4px;">• Gaming<br/>• Tinkering with Android</div>
+<td style="padding-top: 12px;">
+<span style="color: #98c379;">❯</span> <span style="color: #e5c07b; font-size: 16px;">Interests</span>
+<div style="color: #5c6370; margin-top: 8px; padding-left: 16px;">
+<span style="color: #56b6c2;">▸</span> Gaming<br/>
+<span style="color: #56b6c2;">▸</span> Tinkering with Android
+</div>
 </td>
 </tr>
 <tr>
-<td>
-<div style="color: #7cb77c;">● Connect</div>
-<div style="color: #6a6a6a; margin-top: 4px;"><a href="https://t.me/dinhanhtu005" style="color: #6a9eff; text-decoration: none;">Telegram: @dinhanhtu005</a></div>
+<td style="border-top: 1px solid #303630; padding-top: 16px; margin-top: 8px;">
+<span style="color: #98c379;">❯</span> <span style="color: #c678dd; font-size: 16px;">Connect</span>
+<div style="color: #5c6370; margin-top: 8px;">
+<a href="https://t.me/dinhanhtu005" style="color: #61afef; text-decoration: none;">Telegram: @dinhanhtu005</a>
+</div>
 </td>
 </tr>
 </table>
+
+<!-- Stats Row -->
+<table width="100%" max-width="600" cellpadding="12" cellspacing="0" style="margin: 16px auto;">
+<tr>
+<td align="center" style="color: #5c6370; font-family: 'Consolas', monospace; font-size: 12px;">
+<span style="color: #98c379;">●</span> DinhQuangDoi <span style="color: #3e4451;">│</span> Made with <span style="color: #e06c75;">♥</span> in Vietnam
+</td>
+</tr>
+</table>
+
+</div>
