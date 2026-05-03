@@ -10,8 +10,8 @@
 
 <hr style="border: none; border-top: 1px solid #333; margin: 16px 0;">
 
-<p style="margin: 8px 0;">📍 Vietnam</p>
-<p style="margin: 8px 0;">📱 <a href="https://t.me/dinhanhtu005" style="color: #4ecdc4; text-decoration: none;">@dinhanhtu005</a></p>
+<p style="margin: 8px 0;">🇻🇳 Vietnam</p>
+<p style="margin: 8px 0;"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></p>
 </div>
 </div>
 
