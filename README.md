@@ -1,39 +1,25 @@
 <div align="center">
 
-<!-- Header Section -->
-<table width="100%" max-width="850" cellpadding="16" cellspacing="0" style="border: 1px solid #303630; border-radius: 8px; background: #0d0d0d; font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif; color: #e0e0e0; margin: 8px auto;">
-<tr>
-<td style="border-bottom: 1px solid #303630; padding-bottom: 16px;">
-<span style="color: #98c379;">❯</span> <span style="color: #61afef; font-size: 18px;">Hi, I'm Đinh Quang Đới</span>
-<div style="color: #5c6370; margin-top: 8px;">A person who loves tinkering</div>
-</td>
-</tr>
-<tr>
-<td style="padding-top: 12px;">
-<span style="color: #98c379;">❯</span> <span style="color: #e5c07b; font-size: 16px;">Interests</span>
-<div style="color: #5c6370; margin-top: 8px; padding-left: 16px;">
-<span style="color: #56b6c2;">▸</span> Gaming<br/>
-<span style="color: #56b6c2;">▸</span> Tinkering with Android
-</div>
-</td>
-</tr>
-<tr>
-<td style="border-top: 1px solid #303630; padding-top: 16px; margin-top: 8px;">
-<span style="color: #98c379;">❯</span> <span style="color: #c678dd; font-size: 16px;">Connect</span>
-<div style="color: #5c6370; margin-top: 8px;">
-<a href="https://t.me/dinhanhtu005" style="color: #61afef; text-decoration: none;">Telegram: @dinhanhtu005</a>
-</div>
-</td>
-</tr>
-</table>
+<!-- Animated Border Card -->
+<div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 16px; padding: 24px; margin: 16px auto; max-width: 500px; border: 2px solid transparent; background-clip: padding-box; position: relative;">
+<div style="position: absolute; inset: -2px; border-radius: 18px; background: linear-gradient(90deg, #ff6b6b, #4ecdc4, #45b7d1, #96c93d, #ff6b6b); background-size: 400% 100%; animation: gradient 8s linear infinite; z-index: -1;"></div>
 
-<!-- Stats Row -->
-<table width="100%" max-width="850" cellpadding="12" cellspacing="0" style="margin: 16px auto;">
-<tr>
-<td align="center" style="color: #5c6370; font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif; font-size: 12px;">
-<span style="color: #98c379;">●</span> DinhQuangDoi <span style="color: #3e4451;">│</span style="color: #e06c75;"></span> Vietnam
-</td>
-</tr>
-</table>
+<div style="color: #e0e0e0; font-family: 'Segoe UI', sans-serif;">
+<h2 style="margin: 0 0 8px 0;">👋 Hi, I'm Đinh Quang Đới</h2>
+<p style="color: #888; margin: 0 0 16px 0;">Gamer + Android tinkerer</p>
+
+<hr style="border: none; border-top: 1px solid #333; margin: 16px 0;">
+
+<p style="margin: 8px 0;">📍 Vietnam</p>
+<p style="margin: 8px 0;">📱 <a href="https://t.me/dinhanhtu005" style="color: #4ecdc4; text-decoration: none;">@dinhanhtu005</a></p>
+</div>
+</div>
+
+<style>
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  100% { background-position: 400% 50%; }
+}
+</style>
 
 </div>
