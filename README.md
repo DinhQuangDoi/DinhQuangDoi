@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Section -->
-<table width="100%" max-width="600" cellpadding="16" cellspacing="0" style="border: 1px solid #303630; border-radius: 8px; background: #0d0d0d; font-family: 'Consolas', 'Monaco', monospace; color: #e0e0e0; margin: 8px auto;">
+<table width="100%" max-width="850" cellpadding="16" cellspacing="0" style="border: 1px solid #303630; border-radius: 8px; background: #0d0d0d; font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif; color: #e0e0e0; margin: 8px auto;">
 <tr>
 <td style="border-bottom: 1px solid #303630; padding-bottom: 16px;">
 <span style="color: #98c379;">❯</span> <span style="color: #61afef; font-size: 18px;">Hi, I'm Đinh Quang Đới</span>
@@ -28,9 +28,9 @@
 </table>
 
 <!-- Stats Row -->
-<table width="100%" max-width="600" cellpadding="12" cellspacing="0" style="margin: 16px auto;">
+<table width="100%" max-width="850" cellpadding="12" cellspacing="0" style="margin: 16px auto;">
 <tr>
-<td align="center" style="color: #5c6370; font-family: 'Consolas', monospace; font-size: 12px;">
+<td align="center" style="color: #5c6370; font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif; font-size: 12px;">
 <span style="color: #98c379;">●</span> DinhQuangDoi <span style="color: #3e4451;">│</span style="color: #e06c75;"></span> Vietnam
 </td>
 </tr>
