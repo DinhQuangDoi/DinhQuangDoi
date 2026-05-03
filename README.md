@@ -1,3 +1,10 @@
+<style>
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  100% { background-position: 400% 50%; }
+}
+</style>
+
 <div align="center">
 
 <!-- Animated Border Card -->
@@ -14,12 +21,5 @@
 <p style="margin: 8px 0;"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></p>
 </div>
 </div>
-
-<style>
-@keyframes gradient {
-  0% { background-position: 0% 50%; }
-  100% { background-position: 400% 50%; }
-}
-</style>
 
 </div>
